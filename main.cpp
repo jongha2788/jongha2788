@@ -32,7 +32,7 @@ int main(void){
 	cout<<"삭제된 마지막 원소: "<<strVal<<endl;
 	strList.Insert("Class");
 	strList.Print();*/
-
+	jongha
 	int mode, selectNumber, tmpItem;
 	LinkedList<int> *p;
 	bool flag = false;
